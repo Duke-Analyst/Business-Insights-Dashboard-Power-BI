@@ -21,8 +21,33 @@ The data includes:
 - Regional Personnel Information: Contains names and assigned regions of key personnel, covering various geographic areas such as Central, North Asia, Africa, and more (table 'People').
 
 - Order Details: Comprehensive transactional data, including Order ID, order and shipping dates, customer details, shipping mode, product category and sub-category, sales, quantity, and profit, broken down by regions, markets, and specific product attributes (table 'Order ID').
+----
+### This project has 2 parts:
+- Part A: Design Thinking Method
+- Part B: The Dashboards & Insights
+- Part C: Recommendation
+------
+# Part A: Design Thinking Method
+Here are 5 steps of Design Thinking
+## Step 1: Empathize 
+### 5W1H
+![image](https://github.com/user-attachments/assets/36a727f6-aa9c-4318-84a2-11b748595fbd)
 
-# II. The Dashboards & Insights
+### Put me in the stakeholder's shoes
+![image](https://github.com/user-attachments/assets/626f003d-f3b1-4cab-84ba-64a37244c161)
+
+## Step 2:  Define Point of View
+![image](https://github.com/user-attachments/assets/84509a96-e49d-4a78-8358-572d9f4ac91c)
+
+## Step 3: Ideate
+![image](https://github.com/user-attachments/assets/fa7512e0-71be-4d8d-af2f-ca195d5604bb)
+
+### Structure idea
+![image](https://github.com/user-attachments/assets/767f7147-1023-4b91-b5a3-f19ff67bb640)
+
+## Step 4: Prototype and Review
+I will fix the dashboard based on the feedback of viewers/stakeholders, even so my evaluation 
+# Part B: The Dashboards & Insights
 ## Overview
 ![image](https://github.com/user-attachments/assets/1f0ee957-26f6-4a75-a786-3dda08c2e561)
 
@@ -47,7 +72,7 @@ Returned Products (Profit Lost):
 - The top-performing regions are APAC (23.33%), LATAM (21.99%), and US (21.31%).
 - Africa and Canada have low sales and quantity numbers. There may be market challenges, or these markets may lack targeted marketing.
 
-# III. Recommendation
+# Part C: Recommendation
 ## 1. Strategic product selection
 - Phones and Copiers have the highest sales and likely high-profit margins. Expanding markets for these products could lead to significant revenue growth.
 - Chairs could be secondary choices for market expansion because of its low returned quantity
